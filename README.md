@@ -8,3 +8,14 @@ The motivation behind this project stems from the desire to enhance four key fac
 * Performance Optimization- Airflow 2 brings architectural improvements for more efficient task execution, aiming to reduce overall processing times and enhance workflow responsiveness.
 * Advanced Functionality- With new features and enhanced UI in Airflow 2, Optimove can better manage and monitor workflows, leading to streamlined operations and improved UX
 * Long Term Support - Migration to Airflow 2 & Composer 2 ensures access to ongoing maintanencee and reducing vulnerabilities
+
+Technologies I used in this project:
+* Apache Airflow
+* Python
+* SQL
+* Google Big Query, Snowflake, SQL-SERVER
+* Shell scripts
+* Docker Compose
+* Google Cloud Services (Composer & GCP)
+* Azure Pipeline
+* CodeFresh
